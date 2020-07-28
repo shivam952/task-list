@@ -1,0 +1,9 @@
+body{
+    padding-top: 160px;
+}
+.filterText{
+    border: 0;
+    border-bottom: 1px solid;
+    border-bottom-color: blue;
+    background: transparent;
+}
